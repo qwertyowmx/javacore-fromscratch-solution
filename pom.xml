@@ -30,7 +30,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.qwertyowrmx</groupId>
-    <artifactId>wastebinj</artifactId>
+    <artifactId>corewastebin</artifactId>
     <version>2.3.1-SNAPSHOT</version>
 
     <packaging>pom</packaging>

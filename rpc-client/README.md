@@ -1,4 +1,4 @@
-# wastebinj RPC library
+# corewastebin RPC library
 
 :coffee: Simple and easy to use RPC library for Java
 
