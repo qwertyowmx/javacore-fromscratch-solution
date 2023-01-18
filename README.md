@@ -1,4 +1,4 @@
-# :bug: qwertyowrmx-javacore-solution
+# 📂qwertyowrmx-javacore-solution
 
 ### Collection of Java Core :coffee: libraries and applications developed for educational purposes
 
