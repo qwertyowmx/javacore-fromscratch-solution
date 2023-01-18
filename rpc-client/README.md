@@ -1,4 +1,4 @@
-# corewastebin RPC library
+# qwertyowrmx-qwertyowrmx-javacore-solution  RPC library
 
 :coffee: Simple and easy to use RPC library for Java
 

@@ -31,7 +31,7 @@
 
     <parent>
         <groupId>io.qwertyowrmx</groupId>
-        <artifactId>corewastebin</artifactId>
+        <artifactId>qwertyowrmx-javacore-solution</artifactId>
         <version>2.3.1-SNAPSHOT</version>
     </parent>
 

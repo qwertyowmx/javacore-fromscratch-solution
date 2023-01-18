@@ -1,4 +1,5 @@
-# :bug: corewastebin
+# :bug: qwertyowrmx-javacore-solution
+
 ### Collection of Java Core :coffee: libraries and applications developed for educational purposes
 
 This is educational project, which will consist of following parts:
