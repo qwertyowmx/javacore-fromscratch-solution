@@ -1,6 +1,6 @@
-# :bug: javacore-fromscratch-solution
+# 📂qwertyowrmx-javacore-solution
 
-### Collection of Java Core :coffee: libraries and applications developed for educational purposes
+### Collection of Java Core :coffee: libraries and applications developed from scratch
 
 This is educational project, which will consist of following parts:
 
