@@ -2,7 +2,7 @@
 <!--
   ~ MIT License
   ~
-  ~ Copyright (c) 2023 qwertyowrmx
+  ~ Copyright (c) 2023 qwertyowmx
   ~
   ~ Permission is hereby granted, free of charge, to any person obtaining a copy
   ~ of this software and associated documentation files (the "Software"), to deal
@@ -29,7 +29,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>io.qwertyowrmx</groupId>
+        <groupId>io.qwertyowmx</groupId>
         <artifactId>javacore-fromscratch-solution</artifactId>
         <version>2.3.1-SNAPSHOT</version>
     </parent>
@@ -45,13 +45,13 @@
 
     <dependencies>
         <dependency>
-            <groupId>io.qwertyowrmx</groupId>
+            <groupId>io.qwertyowmx</groupId>
             <artifactId>rpc-server</artifactId>
             <version>2.3.1-SNAPSHOT</version>
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>io.qwertyowrmx</groupId>
+            <groupId>io.qwertyowmx</groupId>
             <artifactId>rpc-client</artifactId>
             <version>2.3.1-SNAPSHOT</version>
             <scope>test</scope>

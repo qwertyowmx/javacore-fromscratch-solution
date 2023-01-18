@@ -1,7 +1,7 @@
 /*
  * MIT License
  *
- * Copyright (c) 2023 qwertyowrmx
+ * Copyright (c) 2023 qwertyowmx
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -23,8 +23,8 @@
  *
  */
 
-import io.qwertyowrmx.cache.jdk.SimpleConcurrentLruCache;
-import io.qwertyowrmx.cache.jdk.SimpleLruCache;
+import io.qwertyowmx.cache.jdk.SimpleConcurrentLruCache;
+import io.qwertyowmx.cache.jdk.SimpleLruCache;
 import org.junit.jupiter.api.extension.ExtensionContext;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.ArgumentsProvider;

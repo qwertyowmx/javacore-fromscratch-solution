@@ -1,7 +1,7 @@
 /*
  * MIT License
  *
- * Copyright (c) 2023 qwertyowrmx
+ * Copyright (c) 2023 qwertyowmx
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -23,7 +23,7 @@
  *
  */
 
-import io.qwertyowrmx.cache.Cache;
+import io.qwertyowmx.cache.Cache;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;

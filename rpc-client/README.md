@@ -1,4 +1,4 @@
-# qwertyowrmx-javacore-fromscratch-solution  RPC library
+# qwertyowmx-javacore-fromscratch-solution  RPC library
 
 :coffee: Simple and easy to use RPC library for Java
 
