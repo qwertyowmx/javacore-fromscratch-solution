@@ -1,5 +1,5 @@
 # :bug: wastebinj
-### Collection of Java libraries and applications developed for educational purposes
+### Collection of Java Core libraries and applications developed for educational purposes
 
 This is educational project, which will consist of following parts:
 
