@@ -1,4 +1,4 @@
-# 📂qwertyowrmx-javacore-solution
+# 📂javacore-fromscratch-solution
 
 ### Collection of Java Core :coffee: libraries and applications developed from scratch
 
